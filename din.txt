@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-diniyal loh lo lo
+diniyal loh lo lo low
 =======
 diniyal loh
 >>>>>>> 344eaea9178718ef6d3a9bbc9530d56fabe79b4d
